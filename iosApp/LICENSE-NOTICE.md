@@ -1,0 +1,1 @@
+The upstream BitChord project is licensed under GNU GPL version 3. Preserve the upstream LICENSE file, copyright notices, attribution and source-availability requirements when distributing combined or derivative works. See the repository LICENSE and https://www.gnu.org/licenses/gpl-3.0.html.
